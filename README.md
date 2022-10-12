@@ -1,4 +1,4 @@
-### Olá!  Eu sou Hassan...👋
+### Hi. I'm Hassan ...👋
 
 <div align="center">
   <a href="https://github.com/hassanrodrigues">
