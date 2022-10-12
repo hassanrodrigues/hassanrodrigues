@@ -1,5 +1,16 @@
 ### Hi. I'm Hassan ...👋
 
+## 
+
+* Graduado em Análise e Desenvolvimento de Sistemas
+* Graduando em Sistemas Para Internet
+
+## Atualmente estou...
+* Estudando JavaScript e seus frameworks. 
+* Fazendo curso FullStack Kenzie Acadamy Brasil.
+
+
+ 
 <div align="center">
   <a href="https://github.com/hassanrodrigues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hassanrodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
