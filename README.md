@@ -14,7 +14,7 @@
 <div align="center">
   <a href="https://github.com/hassanrodrigues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hassanrodrigues&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  </br>
+ 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanrodrigues&layout=compact&langs_count=7&theme=outrun"/>
    </br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=hassanrodrigues&repo=github-readme-stats&show_owner=true" width=500></img>
