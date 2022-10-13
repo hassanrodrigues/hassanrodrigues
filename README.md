@@ -13,8 +13,11 @@
  
 <div align="center">
   <a href="https://github.com/hassanrodrigues">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hassanrodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanrodrigues&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hassanrodrigues&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  </br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanrodrigues&layout=compact&langs_count=7&theme=outrun"/>
+   </br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=hassanrodrigues&repo=github-readme-stats&cache_seconds=86400&theme=vue-dark" width=500></img>
 <div style="display: inline_block"><br>
   <img align="center" alt="Hassan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Hassan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
