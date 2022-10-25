@@ -2,15 +2,12 @@
 
 ## 
 
-
 * Graduado em Análise e Desenvolvimento de Sistemas
 * Graduando em Sistemas Para Internet
 
 ## Atualmente estou...
 * Estudando JavaScript e seus frameworks. 
 * Fazendo curso FullStack Kenzie Acadamy Brasil.
-
-
  
 <div align="center">
   <a href="https://github.com/hassanrodrigues">
@@ -18,7 +15,6 @@
  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanrodrigues&layout=compact&langs_count=7&theme=outrun"/>
    </br>
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=hassanrodrigues&repo=github-readme-stats&show_owner=true&theme=transparent" width=500></img>-->
   
 ##
 
@@ -46,12 +42,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-
 #### IDEs
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-
-
 
 ## Connect with me:
   
@@ -63,6 +56,3 @@
   ![Snake animation](https://github.com/hassanrodrigues/hassanrodrigues/blob/output/github-contribution-grid-snake.svg) 
  
 </div>
-  
-
-
